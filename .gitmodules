@@ -1,0 +1,12 @@
+[submodule "kernel/cm-kernel"]
+	path = kernel/cm-kernel
+	url = git://github.com/CyanogenMod/cm-kernel.git
+[submodule "proprietary_vendor_htc"]
+	path = proprietary_vendor_htc
+	url = https://github.com/koush/proprietary_vendor_htc.git
+[submodule "system/.repo/manifests"]
+	path = system/.repo/manifests
+	url = git://github.com/CyanogenMod/android.git
+[submodule "system/.repo/repo"]
+	path = system/.repo/repo
+	url = https://gerrit.googlesource.com/git-repo
